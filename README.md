@@ -10,7 +10,7 @@ python -m pip install --upgrade --no-deps .
 
 - 参考）
 
-https://github.com/CATIA-Systems/FMPy/blob/master/docs/hacking.md
+  - https://github.com/CATIA-Systems/FMPy/blob/master/docs/hacking.md
 
 
 2. SEモデルの実行
