@@ -1,0 +1,42 @@
+# FMUs, SSPs, input files and report files
+*.fmu
+*.ssp
+*.csv
+*.html
+
+# binaries
+*.a
+*.dll
+*.dylib
+*.exe
+*.lib
+*.so
+
+# source archives
+*.tar.gz
+*.zip
+
+# compiled files
+*.py[cod]
+
+# build artifacts
+build/
+sundials-*/
+dist/
+MANIFEST
+rpclib-*/
+*.egg-info
+.pytest_cache/
+
+# test artifacts
+tests/IntegerNetwork1/
+tests/Rectifier/
+
+# PyCharm project
+.idea/
+
+# file-based project format
+*.iws
+
+# generated documentation
+_build
