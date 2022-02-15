@@ -21,3 +21,4 @@ python -m fmpy --fmi-logging simulate ディレクトリ名/Reference-FMUs/build
 ```
 
 - SEモデルの実行では、SEに対応したFMPyとSEに対応したモデルが必要。
+- FMUのモデルは、Reference-FMUs内のClocksを使用。Clocksが使用する関数等についてSEに対応するよう修正。
