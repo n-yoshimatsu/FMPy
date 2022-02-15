@@ -17,7 +17,7 @@ python -m pip install --upgrade --no-deps .
 2. SEモデルの実行
 
 ```
-python -m fmpy --fmi-logging simulate /home/nyoshimatsu/work/fmi/Reference-FMUs/build/dist/Clocks.fmu
+python -m fmpy --fmi-logging simulate ディレクトリ名/Reference-FMUs/build/dist/Clocks.fmu
 ```
 
 - SEモデルの実行では、SEに対応したFMPyとSEに対応したモデルが必要。
