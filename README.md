@@ -8,9 +8,7 @@ FMPyを展開したディレクトリ内で、
 python -m pip install --upgrade --no-deps .
 ```
 
-参考）
-
-  - https://github.com/CATIA-Systems/FMPy/blob/master/docs/hacking.md
+[参考](https://github.com/CATIA-Systems/FMPy/blob/master/docs/hacking.md)
 
 ***
 
