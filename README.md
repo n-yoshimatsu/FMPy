@@ -16,6 +16,7 @@ python -m pip install --upgrade --no-deps .
 
 2. SEモデルの実行
 
+実行方法は、GUIではなくCLIを利用。
 ```
 python -m fmpy --fmi-logging simulate ディレクトリ名/Reference-FMUs/build/dist/Clocks.fmu
 ```
