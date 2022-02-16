@@ -11,6 +11,8 @@ python -m pip install --upgrade --no-deps .
 
 https://github.com/CATIA-Systems/FMPy/blob/master/docs/hacking.md
 
+利用するPython等は、FMPyのインストール・実行についての情報は、公式のFMPyのgithubを参照。
+
 ***
 ### 2. SEモデルの実行方法
 
