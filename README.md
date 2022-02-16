@@ -19,8 +19,8 @@ fmpyによるSEを使うFMUの実行は、GUIではなくCLIを使用。
 python -m fmpy --fmi-logging simulate ディレクトリ名/Reference-FMUs/build/dist/Clocks.fmu
 ```
 ***
-### 3. SEに対応したFMU
-- SEモデルの実行では、SEに対応したFMPyとSEに対応したモデルが必要。
+### 3. SEに対応したモデル
+- SEモデルの実行では、SEに対応したFMPyとSEに対応したモデル（FMU）が必要。
 - FMUのモデルは、Reference-FMUs内のClocksを使用。Clocksが使用する関数等についてSEに対応するよう修正。
 - 評価用のモデルを以下の中で作成
 
